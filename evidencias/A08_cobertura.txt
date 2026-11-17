@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A08
+Artefato: A08_teste_lucas_lehmer.py
+Arquivo de testes: test_A08_teste_lucas_lehmer.py
+
+Resultado dos testes: FALHARAM
+
+COBERTURA DE LINHAS
+Linhas cobertas: 10
+Total de linhas executáveis: 10
+Percentual: 100.00%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 6
+Total de ramificações: 6
+Percentual: 100.00%
