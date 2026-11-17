@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A15
+Artefato: A15_gerar_sequencia_collatz.py
+Arquivo de testes: test_A15_gerar_sequencia_collatz.py
+
+Resultado dos testes: APROVADOS
+
+COBERTURA DE LINHAS
+Linhas cobertas: 12
+Total de linhas executáveis: 12
+Percentual: 100.00%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 8
+Total de ramificações: 8
+Percentual: 100.00%

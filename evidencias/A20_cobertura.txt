@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A20
+Artefato: A20_verificar_numero_primo.py
+Arquivo de testes: test_A20_verificar_numero_primo.py
+
+Resultado dos testes: APROVADOS
+
+COBERTURA DE LINHAS
+Linhas cobertas: 15
+Total de linhas executáveis: 15
+Percentual: 100.00%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 12
+Total de ramificações: 12
+Percentual: 100.00%

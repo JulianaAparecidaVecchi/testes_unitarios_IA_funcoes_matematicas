@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A19
+Artefato: A19_congruencia_de_zeller.py
+Arquivo de testes: test_A19_congruencia_de_zeller.py
+
+Resultado dos testes: APROVADOS
+
+COBERTURA DE LINHAS
+Linhas cobertas: 19
+Total de linhas executáveis: 19
+Percentual: 100.00%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 10
+Total de ramificações: 10
+Percentual: 100.00%

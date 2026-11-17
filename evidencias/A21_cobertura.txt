@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A21
+Artefato: A21_encontrar_tres_somas.py
+Arquivo de testes: test_A21_encontrar_tres_somas.py
+
+Resultado dos testes: FALHARAM
+
+COBERTURA DE LINHAS
+Linhas cobertas: 21
+Total de linhas executáveis: 21
+Percentual: 100.00%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 14
+Total de ramificações: 14
+Percentual: 100.00%

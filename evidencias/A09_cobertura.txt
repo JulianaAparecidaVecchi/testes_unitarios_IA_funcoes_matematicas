@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A09
+Artefato: A09_calcular_soma_aliquota.py
+Arquivo de testes: test_A09_calcular_soma_aliquota.py
+
+Resultado dos testes: APROVADOS
+
+COBERTURA DE LINHAS
+Linhas cobertas: 11
+Total de linhas executáveis: 11
+Percentual: 100.00%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 8
+Total de ramificações: 8
+Percentual: 100.00%
