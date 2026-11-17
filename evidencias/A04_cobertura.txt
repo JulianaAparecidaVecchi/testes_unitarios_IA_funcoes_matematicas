@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A04
+Artefato: A04_obter_sinal.py
+Arquivo de testes: test_A04_obter_sinal.py
+
+Resultado dos testes: APROVADOS
+
+COBERTURA DE LINHAS
+Linhas cobertas: 6
+Total de linhas executáveis: 6
+Percentual: 100.00%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 4
+Total de ramificações: 4
+Percentual: 100.00%
