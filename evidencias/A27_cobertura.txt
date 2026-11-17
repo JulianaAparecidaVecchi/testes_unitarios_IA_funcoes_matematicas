@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A27
+Artefato: A27_teste_miller_rabin.py
+Arquivo de testes: test_A27_teste_miller_rabin.py
+
+Resultado dos testes: FALHARAM
+
+COBERTURA DE LINHAS
+Linhas cobertas: 30
+Total de linhas executáveis: 31
+Percentual: 96.77%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 25
+Total de ramificações: 26
+Percentual: 96.15%
