@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A29
+Artefato: A29_resolver_sistema_linear.py
+Arquivo de testes: test_A29_resolver_sistema_linear.py
+
+Resultado dos testes: FALHARAM
+
+COBERTURA DE LINHAS
+Linhas cobertas: 33
+Total de linhas executáveis: 33
+Percentual: 100.00%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 26
+Total de ramificações: 26
+Percentual: 100.00%
