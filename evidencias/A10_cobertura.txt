@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A10
+Artefato: A10_euclides_estendido.py
+Arquivo de testes: test_A10_euclides_estendido.py
+
+Resultado dos testes: APROVADOS
+
+COBERTURA DE LINHAS
+Linhas cobertas: 12
+Total de linhas executáveis: 12
+Percentual: 100.00%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 6
+Total de ramificações: 6
+Percentual: 100.00%
