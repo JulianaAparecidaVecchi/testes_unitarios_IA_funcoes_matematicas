@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A07
+Artefato: A07_exponenciacao_modular.py
+Arquivo de testes: test_A07_exponenciacao_modular.py
+
+Resultado dos testes: APROVADOS
+
+COBERTURA DE LINHAS
+Linhas cobertas: 11
+Total de linhas executáveis: 11
+Percentual: 100.00%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 6
+Total de ramificações: 6
+Percentual: 100.00%
