@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A17
+Artefato: A17_funcao_totiente_euler.py
+Arquivo de testes: test_A17_funcao_totiente_euler.py
+
+Resultado dos testes: APROVADOS
+
+COBERTURA DE LINHAS
+Linhas cobertas: 16
+Total de linhas executáveis: 16
+Percentual: 100.00%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 12
+Total de ramificações: 12
+Percentual: 100.00%
