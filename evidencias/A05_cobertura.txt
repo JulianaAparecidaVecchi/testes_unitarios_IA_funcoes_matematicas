@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A05
+Artefato: A05_calcular_fatorial.py
+Arquivo de testes: test_A05_calcular_fatorial.py
+
+Resultado dos testes: APROVADOS
+
+COBERTURA DE LINHAS
+Linhas cobertas: 9
+Total de linhas executáveis: 9
+Percentual: 100.00%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 6
+Total de ramificações: 6
+Percentual: 100.00%
