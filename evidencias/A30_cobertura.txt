@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A30
+Artefato: A30_pontos_para_polinomio.py
+Arquivo de testes: test_A30_pontos_para_polinomio.py
+
+Resultado dos testes: APROVADOS
+
+COBERTURA DE LINHAS
+Linhas cobertas: 35
+Total de linhas executáveis: 35
+Percentual: 100.00%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 22
+Total de ramificações: 22
+Percentual: 100.00%
