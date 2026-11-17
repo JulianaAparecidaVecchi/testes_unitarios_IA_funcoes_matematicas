@@ -1,0 +1,17 @@
+RESULTADOS DO EXPERIMENTO
+
+Identificador: A22
+Artefato: A22_menor_diferenca_particao.py
+Arquivo de testes: test_A22_menor_diferenca_particao.py
+
+Resultado dos testes: FALHARAM
+
+COBERTURA DE LINHAS
+Linhas cobertas: 20
+Total de linhas executáveis: 21
+Percentual: 95.24%
+
+COBERTURA DE RAMIFICAÇÕES
+Ramificações cobertas: 17
+Total de ramificações: 18
+Percentual: 94.44%
